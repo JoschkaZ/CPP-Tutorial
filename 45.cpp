@@ -10,7 +10,7 @@ int main() {
   int age3 {21}; // C++11 list initialization syntax
 
   int age4;
-  cout << age4;
+  cout << age4; // uses whatever is in the memory location right now
 
   return 0;
 }
