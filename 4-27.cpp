@@ -10,4 +10,11 @@ int main()
   return 4;
 }
 
-//std: standard name space
+//std: standard name space (used to avoid problems of multiple functions having the same name)
+//#: preprocessor directive
+
+
+/*
+multiple
+line
+comment */
